@@ -2,8 +2,7 @@
 % Please edit documentation in R/sandwich-option.R
 \name{sandwich_ready}
 \alias{sandwich_ready}
-\title{Sandwich option
-A function to print out how long it is until a sandwich order is ready}
+\title{Ready Sandwich}
 \usage{
 sandwich_ready(protein, topping, minute)
 }
@@ -15,7 +14,6 @@ sandwich_ready(protein, topping, minute)
 \item{minute}{is a numeric for how many minutes}
 }
 \description{
-Sandwich option
 A function to print out how long it is until a sandwich order is ready
 }
 \examples{
